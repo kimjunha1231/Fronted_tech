@@ -1,0 +1,2 @@
+https://changjoopark.medium.com/flutter-%ED%99%98%EA%B2%BD%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8B%A4%EB%A5%B4%EA%B2%8C-%EB%B9%8C%EB%93%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-60fd45a8a0d5
+## 플랫폼 별 오류가 발생할 수 있는 점을 미리 디버깅
