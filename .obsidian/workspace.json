@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "isolate.md",
+                "file": "라이브러리/바텀 네비게이션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "isolate"
+              "title": "바텀 네비게이션"
             }
           }
         ],
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75d1110284bd9c73",
@@ -205,35 +204,37 @@
   },
   "active": "ee6ba5bf42432787",
   "lastOpenFiles": [
-    "README.md",
-    "isolate.md",
-    "클린 아키텍처.md",
-    "디자인 다룰 때.md",
-    "Lint 버그 감지에 유용.md",
-    "라이브러리/flutter hook.md",
-    "args 디버그 설정.md",
-    "학복위 앱/API.md",
-    "학복위 앱/개발도구 미리보기.md",
-    "팁/스크롤 시 앱바 색상이 변경되는 현상.md",
-    "팁/애니매이션 효과 높이는 법.md",
+    "디어팸에 사용/디어팸 전용.md",
+    "라이브러리/바텀 네비게이션.md",
+    "라이브러리/api통신시 사용할 라이브러리.md",
     "라이브러리/얼굴 감지.md",
     "라이브러리/플러터 가족 트리.md",
+    "라이브러리/widget 추천.md",
+    "팁/애니매이션 효과 높이는 법.md",
+    "팁/스크롤 시 앱바 색상이 변경되는 현상.md",
+    "라이브러리/flutter hook.md",
     "이미지/Pasted image 20250109142543.png",
-    "이미지",
-    "3.27 업데이트 기능/업데이트 사항.md",
-    "이미지/Pasted image 20250109153406.png",
-    "3.27 업데이트 기능/링크.md",
-    "이미지/Pasted image 20250109142557.png",
+    "학복위 앱/개발도구 미리보기.md",
     "학복위 앱/반응형 화면.md",
+    "학복위 앱/연락처 페이지.md",
+    "README.md",
+    "Lint 버그 감지에 유용.md",
+    "isolate.md",
+    "args 디버그 설정.md",
+    "클린 아키텍처.md",
+    "무제 파일.canvas",
+    "디자인 다룰 때.md",
+    "3.27 업데이트 기능/링크.md",
+    "3.27 업데이트 기능/업데이트 사항.md",
+    "학복위 앱/API.md",
+    "이미지/Pasted image 20250109142557.png",
+    "이미지",
+    "이미지/Pasted image 20250109153406.png",
     "3.27 업데이트 기능.md",
     "3.27 업데이트 기능",
-    "라이브러리/api통신시 사용할 라이브러리.md",
     "학복위 앱",
-    "디어팸에 사용/디어팸 전용.md",
     "디어팸에 사용",
-    "무제 파일.canvas",
     "2024-11-13.md",
-    "라이브러리/widget 추천.md",
     "Welcome.md",
     "라이브러리",
     "팁"
